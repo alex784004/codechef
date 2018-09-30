@@ -1,0 +1,17 @@
+neural network:-
+the neural network have the ability to learn by example , which makes them very flexible and powerful.
+For neural networks, there is no need to devise an algorithm to perform a specific task
+there is no need to understand the internal mechanism of that task.
+
+... a neural network is a system composed of many simple processing 
+elements operating in parallel whose function is determined by 
+network structure, connection strengths, and the processing 
+performed at computing elements or nodes.  
+
+
+
+artificial neural network:-
+
+advantage of ann:-
+1)adaptive learning :-An ANN is endowed with the ability to learn how to do taSks based on the data given
+for training or initial experience
