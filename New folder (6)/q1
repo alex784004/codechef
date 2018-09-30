@@ -1,0 +1,29 @@
+Abhishek is fascinated by the manipulation of ASCII Codes and has learnt the basics how to manipulate the ASCII Codes.To check the basics of the concept, Abhishek’s Teacher has given him a problem to solve.Help Abhishek to solve the problem so that Abhishek can impress his teacher by his coding skiils. 
+
+He is given a string S of length L in which he has to replace each character by a new character.The new character is any character between a and z (both inclusive) which is determined by traversing by the old character’s ASCII value.
+
+
+
+Input: First Line of Input Contains T, the number of Test Cases. 
+Second Line Contains a string S in lowercase. 
+Output: Display the output for each test case in new line.
+
+
+Constraints: 
+T<=100 
+1<=L<=1000
+
+
+Sample Input: 
+4 
+uwgs 
+sbdhd 
+hsvw 
+bhls
+
+
+Sample Output: 
+hlfd 
+dvzhz 
+hdjl 
+vhpd
